@@ -1,89 +1,89 @@
-# **TwitDloader - 高清推特视频下载器**
+# **TwitDloader - HD Twitter Video Downloader**
 
-TwitDloader 是一个浏览器扩展，允许用户一键下载 Twitter/X 平台的高清视频，支持多种视频分辨率选择。该扩展还支持多语言界面，提供简洁直观的操作体验，并允许用户自定义界面主题颜色。
+TwitDloader is a browser extension that allows users to download high-quality videos from Twitter/X with just one click. The extension supports multiple video resolutions, a user-friendly interface, and auto-switching between 11 languages. Additionally, users can customize the theme color of the interface.
 
 ![](https://picx.zhimg.com/80/v2-99e6fad0c43e09d14fa880db37d3a6fd_1440w.jpeg)
 
-## **主要功能**
+## **Key Features**
 
-- 一键下载 Twitter/X 平台的高清视频
-- 支持多种视频分辨率选择
-- 界面支持 11 种语言自动切换
-- 简洁直观的操作界面，易于使用
-- 支持自定义界面主题颜色
-- 完全免费，且无广告
+- One-click HD video download from Twitter/X
+- Supports multiple video resolution options
+- Interface available in 11 languages with auto-switching
+- Clean and easy-to-use interface
+- Customizable theme color for the interface
+- Completely free with no ads
 
-## **支持的语言**
+## **Supported Languages**
 
-- 简体中文
-- 繁体中文
+- Simplified Chinese
+- Traditional Chinese
 - English
-- 日本語
-- 한국어
-- Русский
-- العربية
-- فارسی
-- Français
-- Español
-- Português
+- Japanese (日本語)
+- Korean (한국어)
+- Russian (Русский)
+- Arabic (العربية)
+- Persian (فارسی)
+- French (Français)
+- Spanish (Español)
+- Portuguese (Português)
 
-## **如何使用**
+## **How to Use**
 
-1. 安装扩展后，访问任意 Twitter/X 视频页面。
-2. 点击视频下方的“解析视频”按钮。
-3. 选择需要的视频分辨率。
-4. 点击“下载”按钮即可保存视频到本地。
+1. After installing the extension, visit any video page on Twitter/X.
+2. Click the "Parse Video" button below the video.
+3. Choose the video resolution you prefer.
+4. Hit the "Download" button to save the video to your device.
 
-## **功能特点**
+## **Features**
 
-- **无需登录**：安装后即可下载推特视频，无需登录Twitter账户。
-- **自定义主题**：可以根据个人喜好调整界面颜色和显示模式。
-- **多分辨率支持**：根据视频质量需求选择不同的分辨率进行下载。
-- **支持多个语言**：界面自动根据浏览器语言环境切换，支持11种语言。
-- **隐私保护**：不会收集任何个人信息，完全遵守隐私政策。
+- **No login required**: Download videos without logging into your Twitter account.
+- **Customizable theme**: Choose your preferred color scheme for the interface.
+- **Resolution options**: Download videos in various resolutions based on your needs.
+- **Multi-language support**: The interface automatically switches between 11 languages depending on your browser’s language settings.
+- **Privacy-friendly**: We don’t collect any user data or track your activity.
 
-## **隐私说明**
+## **Privacy Statement**
 
-- 本扩展 **不收集任何用户数据**。
-- 扩展仅在 Twitter/X 网站上运行，不会跟踪用户其他行为。
-- 完全免费，且无任何广告。
+- **No personal data collection**: We don’t track or store any personal information.
+- The extension only works on Twitter/X pages and won’t track your activity elsewhere.
+- Completely free to use with no ads or hidden charges.
 
-## **安装方法**
+## **Installation Instructions**
 
-1. 下载扩展包并解压。
-2. 打开浏览器的扩展管理页面。
-3. 在 Chrome 中，输入 `chrome://extensions/`，然后点击“加载已解压的扩展程序”，选择解压后的文件夹进行安装。
-4. 安装成功后，访问任意 Twitter/X 视频页面，点击解析按钮即可下载视频。
+1. Download and unzip the extension file.
+2. Open your browser’s extension management page.
+   - In Chrome, go to `chrome://extensions/`, then click "Load unpacked" and select the unzipped folder.
+3. Once installed, visit any Twitter/X video page and click the "Parse Video" button to start downloading.
 
 ![](https://pic1.zhimg.com/80/v2-001090099746f56350b3e469f569e892_1440w.jpeg)
 ![](https://picx.zhimg.com/80/v2-cf9a628a42c84141c964c7430bd5e15b_1440w.jpeg)
 ![](https://picx.zhimg.com/80/v2-37acb143a6f947a1715f96f24729c632_1440w.jpeg)
 
-## **开发与贡献**
+## **Development & Contributing**
 
-欢迎大家提交 Issues 或 Pull Requests，如果你发现任何 bug 或有新功能的建议，欢迎提出。我们非常欢迎社区的参与和贡献。
+We welcome contributions! If you find any bugs or have suggestions for new features, feel free to create an issue or submit a pull request. Community involvement is highly appreciated.
 
-1. Fork 本仓库。
-2. 克隆到本地并进行修改。
-3. 提交 Pull Request，描述清楚改动内容。
+1. Fork this repository.
+2. Clone it to your local machine and make changes.
+3. Submit a pull request with a clear description of your changes.
 
-## **更新日志**
+## **Changelog**
 
 **v1.0**
-- 首次发布。
-- 支持高清视频下载。
-- 支持多语言界面。
-- 自定义主题颜色功能。
+- Initial release
+- HD video download support
+- Multi-language interface
+- Custom theme color feature
 
-## **联系方式**
+## **Contact**
 
-如果在使用过程中遇到问题或有任何建议，请通过以下方式联系我们：
+If you encounter any issues or have suggestions, feel free to reach out to us:
 
-- 官网：[https://spiritfoxlab.ababtools.com/TwitDloaderCN](https://spiritfoxlab.ababtools.com/TwitDloaderCN)
-- 支持 Email：[support@toolooz.com](mailto:support@toolooz.com)
+- Website: [https://twitdloader.toolooz.com](https://twitdloader.toolooz.com)
+- Support Email: [support@toolooz.com](mailto:support@toolooz.com)
 
-## **免责声明**
+## **Disclaimer**
 
-- 本扩展仅供个人使用。
-- 请遵守 Twitter/X 平台的相关政策和法律法规。
-- 尊重原创作者的权益，未经授权的内容下载应避免商业使用。
+- This extension is for personal use only.
+- Please comply with Twitter/X’s policies and relevant laws.
+- Respect the rights of original content creators—do not use downloaded content for commercial purposes without proper authorization.
